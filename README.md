@@ -15,8 +15,14 @@ I am Heyuan LIU
 - 📫 How to reach me: heyuan.liu@polytechnique.edu or heyuan.liu@epfl.ch
 
 
-- 🇨🇭 EPFL IPESE lab                                Research Intern and Master in Exchange
+- 🇨🇭 EPFL IPESE lab
 
-- 🇫🇷 Ecole Polytechnique                           M1 student in MSc&T Artificial Intelligence and Advanced Visual Computing
+  Research Intern and Master in Exchange
 
-- 🇲🇴 Macau University of Science and Technology    Bachelor of Science(Software Engineering)
+- 🇫🇷 Ecole Polytechnique
+
+  M1 student in MSc&T Artificial Intelligence and Advanced Visual Computing
+
+- 🇲🇴 Macau University of Science and Technology
+
+  Bachelor of Science(Software Engineering)
