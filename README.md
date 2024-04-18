@@ -9,8 +9,14 @@ I am Heyuan LIU
 
 不懂劳动法
 - 🔭 I’m currently working on EPFL projects
-- 🌱 I’m currently learning clustering, reinforcement learning and evolutionary algorithm
+- 🌱 I’m currently studying in Ecole Polytechnique and EPFL
 - 👯 I’m looking to collaborate on Energy systems
-- 🤔 I’m looking for help with PhD postions in 2025
-- 💬 Ask me about ...
+- 🤔 I’m looking for PhD postions in 2025
 - 📫 How to reach me: heyuan.liu@polytechnique.edu or heyuan.liu@epfl.ch
+
+
+- 🇨🇭 EPFL IPESE lab                                Research Intern and Master in Exchange
+
+- 🇫🇷 Ecole Polytechnique                           M1 student in MSc&T Artificial Intelligence and Advanced Visual Computing
+
+- 🇲🇴 Macau University of Science and Technology    Bachelor of Science(Software Engineering)
