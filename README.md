@@ -26,3 +26,12 @@ I am Heyuan LIU
 - 🇲🇴 Macau University of Science and Technology
 
   Bachelor of Science(Software Engineering)
+
+
+
+
+  https://img.shields.io/badge/alipay-00A1E9?style=for-the-badge&logo=alipay&logoColor=white
+
+  https://img.shields.io/badge/Burger_King-FF0000?style=for-the-badge&logo=burger-king&logoColor=white
+
+  https://img.shields.io/badge/KFC-F40027?style=for-the-badge&logo=kfc&logoColor=white
