@@ -27,8 +27,8 @@ I am Heyuan LIU
 
   Bachelor of Science(Software Engineering)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiSFiT5)](https://github.com/anuraghazra/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiSFiT5&show_icons=true&theme=ambient_gradient)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiSFiT5)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Alipay](https://img.shields.io/badge/alipay-00A1E9?style=for-the-badge&logo=alipay&logoColor=white)](https://www.alipay.com)
 [![Burger King](https://img.shields.io/badge/Burger_King-FF0000?style=for-the-badge&logo=burger-king&logoColor=white)](https://www.bk.com)
