@@ -14,6 +14,12 @@ I am Heyuan LIU
 - 🤔 I’m looking for PhD postions in 2025
 - 📫 How to reach me: heyuan.liu@polytechnique.edu or heyuan.liu@epfl.ch
 
+- Research Interest:
+      Modeling and Optimization in Energy and Industrial System and Process
+      LLM(Large Language Model) embeded Desicion Making System
+      Decision Making with Data-driven Method
+      Apply AI in energy and industrial process optimization & Reduce the Energy and Resource consumption in AI training Procedure
+
 
 - 🇨🇭 EPFL IPESE lab
 
