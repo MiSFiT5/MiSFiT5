@@ -20,7 +20,7 @@ I am Heyuan LIU
 
       LLM(Large Language Model) embeded Desicion Making System
 
-      Decision Making with Data-driven Method
+      Next Generation of Decision Making with Data-driven Method in real-time Industry
 
       Apply AI in energy and industrial process optimization & Reduce the Energy and Resource consumption in AI training Procedure
 
