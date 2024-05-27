@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://raw.githubusercontent.com/MiSFiT5/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
 <!--
 **MiSFiT5/MiSFiT5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
