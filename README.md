@@ -1,5 +1,4 @@
-### Which way are you going?  The door is gonna closed in an hour.
-### Will we walk all night?  Through the solitary street.
+
 ![](https://raw.githubusercontent.com/MiSFiT5/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
 <!--
 **MiSFiT5/MiSFiT5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,14 +24,16 @@ I am Heyuan LIU
 
       Apply AI in energy and industrial process optimization & Reduce the Energy and Resource consumption in AI training Procedure
 
+- 🇫🇷 Ecole Polytechnique
 
+  M2 student in MSc&T Artificial Intelligence and Advanced Visual Computing
+
+  
 - 🇨🇭 EPFL IPESE lab
 
   Research Intern and Master in Exchange
 
-- 🇫🇷 Ecole Polytechnique
 
-  M1 student in MSc&T Artificial Intelligence and Advanced Visual Computing
 
 - 🇲🇴 Macau University of Science and Technology
 
