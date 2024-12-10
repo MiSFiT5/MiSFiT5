@@ -8,9 +8,8 @@ I am Heyuan LIU
 贼能加班
 
 不懂劳动法
-- 🔭 I’m currently working on EPFL projects
-- 🌱 I’m currently studying in Ecole Polytechnique and EPFL
-- 👯 I’m looking to collaborate on Energy systems
+- 🔭 I’m currently working on Courses in École Polytechnique and projects with IDEMIA on 3D luggage detection
+- 🌱 I’m currently studying in École Polytechnique
 - 🤔 I’m looking for PhD postions in 2025
 - 📫 How to reach me: heyuan.liu@polytechnique.edu or heyuan.liu@epfl.ch
 
