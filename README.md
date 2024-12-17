@@ -40,6 +40,93 @@ I am Heyuan LIU
 
   Bachelor of Science(Software Engineering)
 
+
+
+```python
+class Heyuan:
+    """
+    A Python class representing Heyuan Liu, a Master student with extensive experience and expertise in 
+    Artificial Intelligence, Advanced Visual Computing, and related technologies.
+    """
+
+    def __init__(self):
+        self.name = "Heyuan Liu"
+        self.email = ["liuheyuan05@gmail.com", "heyuan.liu@polytechnique.edu"]
+        self.phone = ["+33 744913997", "+86 18040205362"]
+        self.education = {
+            "École Polytechnique": {
+                "degree": "M2 in Artificial Intelligence and Advanced Visual Computing",
+                "GPA": 3.68,
+                "scholarship": "SEMG",
+                "duration": "Sep. 2023 - Present"
+            },
+            "EPFL (Exchange Program)": {
+                "degree": "Research Intern in IPESE Lab",
+                "duration": "Mar. 2024 - Sep. 2024"
+            },
+            "Macau University of Science and Technology": {
+                "degree": "B.Sc. in Software Engineering",
+                "GPA": 3.45,
+                "duration": "Sep. 2019 - Aug. 2023"
+            }
+        }
+        self.work_experience = [
+            {
+                "role": "Research Intern",
+                "organization": "EPFL IPESE lab",
+                "duration": "Mar. 2024 - Sep. 2024",
+                "description": "Applying machine learning for multi-criteria decision-making in energy systems."
+            },
+            {
+                "role": "Chatbot Engineer",
+                "organization": "Roland Berger",
+                "duration": "Feb. 2024 - Apr. 2024",
+                "description": "Developed specialized chatbot agents for car sales."
+            },
+            {
+                "role": "Software Quality Intern",
+                "organization": "Volkswagen-Mobvoi",
+                "duration": "June 2022 - Aug. 2022",
+                "description": "Improved software quality systems and resolved issues in automotive projects."
+            }
+        ]
+        self.projects = {
+            "IPESE Internship": "Optimal configuration using machine learning for decision-making.",
+            "Navi-UAV": "Dynamic UAV navigation using reinforcement learning.",
+            "Real-Time AI for StarCraft": "Developed AI agents for StarCraft game.",
+            "Extractive Summarization with Discourse Graphs": "Implemented GCN and LSTM for summarization.",
+            "VTuber-Genshin": "Real-time virtual character synchronization using MediaPipe and Unity."
+        }
+        self.skills = [
+            "Python (Pytorch)", "C/C++", "Matlab", "Machine Learning", 
+            "Deep Learning", "Chatbot Development"
+        ]
+        self.languages = {
+            "English": "Fluent",
+            "Chinese/Mandarin": "Native",
+            "German": "Basic",
+            "French": "Beginner"
+        }
+        self.interests = ["Basketball", "Saxophone", "Dragon boat"]
+
+    def display_summary(self):
+        """
+        Displays a summary of Heyuan's profile.
+        """
+        return f"""
+        Name: {self.name}
+        Email: {', '.join(self.email)}
+        Education: {', '.join([f"{k} ({v['degree']})" for k, v in self.education.items()])}
+        Skills: {', '.join(self.skills)}
+        Languages: {', '.join([f"{lang} ({level})" for lang, level in self.languages.items()])}
+        Interests: {', '.join(self.interests)}
+        """
+
+# Create an instance of the Heyuan class and display the summary
+heyuan = Heyuan()
+print(heyuan.display_summary())
+‘’‘
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiSFiT5&show_icons=true&theme=ambient_gradient)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiSFiT5)](https://github.com/anuraghazra/github-readme-stats)
 
